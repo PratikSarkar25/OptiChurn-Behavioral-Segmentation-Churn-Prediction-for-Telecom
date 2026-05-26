@@ -1,0 +1,2 @@
+# OptiChurn-Behavioral-Segmentation-Churn-Prediction-for-Telecom
+An enterprise-grade analytics solution designed to combat telecom revenue loss through customer segmentation and churn prediction. Using K-Means clustering, the customer base is divided into behavioral risk cohorts. Advanced ML models then calculate individual churn probabilities, providing actionable data-driven insights to optimize retention ROI.
